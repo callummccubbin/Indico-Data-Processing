@@ -38,20 +38,21 @@ for id in setOfIds:
     url = 'https://indico.fnal.gov/export/event/22303/session/' + str(id) + '.json'
     r2 = requests.get(url)
     data2 = json.loads(r2.text)
-    data2 = data2['results'][0]
+    for x in data2['results']:
 
-    #complain if the address is an empty string
-    if data2['address'] == '':
-        print("Error. The address value for search " + str(id) + " is an empty string!")
-        emptyIDs += 1
-    
-    output.append({
-        "id": data2['address'],
-        "day": data2['startDate']['date'].replace('2022-0', ''),
-        "title": data2['title'],
-        "location": data2['location'] + ' ' + data2['room'],
-        "time": myConvertTime(data2['startDate']['time']) + '-' + myConvertTime(data2['endDate']['time'])
-    })
+        #complain if the address is an empty string
+        #if x['address'] == '':
+            #print("Error. The address value for search " + str(id) + " is an empty string!")
+            #emptyIDs += 1
+        
+        #print(data2['type'])
+        output.append({
+            "id": x['address'],
+            "day": x['startDate']['date'].replace('2022-0', ''),
+            "title": x['title'],
+            "location": x['location'] + ' ' + x['room'],
+            "time": myConvertTime(x['startDate']['time']) + '-' + myConvertTime(x['endDate']['time'])
+        })
 
 print(str(emptyIDs), 'empty IDs')
 result = open("output.yaml", "w")
