@@ -2,7 +2,10 @@ import requests
 import json
 import yaml
 
+# this is an inelegant solution and assumes that every item is
+# already in chicago time.
 def myConvertTime(x):
+    # convert from chicago to PDTs
     y = x
     if (int(y[:2]) - 2) > 12:
         y = str(int(y[:2]) - 14) + y[2:]
@@ -54,8 +57,7 @@ for id in setOfIds:
             "time": myConvertTime(x['startDate']['time']) + '-' + myConvertTime(x['endDate']['time'])
         })
 
-print(str(emptyIDs), 'empty IDs')
+#print(str(emptyIDs), 'empty IDs')
 result = open("output.yaml", "w")
 result.write(yaml.dump(output))
 result.close()
-
