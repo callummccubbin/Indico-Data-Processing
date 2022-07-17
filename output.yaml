@@ -1,883 +1,898 @@
+- day: 7-18
+  id: 18L
+  location: MGH 238
+  time: 08:00:00AM-12:20:00PM
+  title: 'Energy Frontier: EF - Strong Interactions I'
 - day: 7-22
   id: 31A
   location: JHN 022
-  time: 9:00:00am-10:00:00am
+  time: 09:00:00AM-10:00:00AM
   title: 'Energy Frontier: BSM V'
 - day: 7-20
   id: 19O
   location: Kane Hall 220
-  time: 8:00:00am-10:00:00am
+  time: 08:00:00AM-10:00:00AM
   title: 'Energy Frontier: BSM II'
 - day: 7-23
   id: 24N
   location: Kane Hall 130
-  time: 8:00:00am-12:00:00pm
+  time: 08:00:00AM-12:00:00PM
   title: 'Energy Frontier: Discussion and Summaries'
 - day: 7-22
   id: 23N
   location: JHN 102
-  time: 8:00:00am-9:00:00am
+  time: 08:00:00AM-09:00:00AM
   title: 'Energy Frontier: BSM IV'
 - day: 7-21
   id: 21N
   location: Kane Hall 110
-  time: 10:00:00am-11:55:00am
+  time: 10:00:00AM-11:55:00AM
   title: 'Energy Frontier: Dark Matter Discussion'
 - day: 7-21
   id: 21P
   location: Kane Hall 210
-  time: 8:00:00am-12:00:00pm
+  time: 08:00:00AM-12:00:00PM
   title: 'Energy Frontier: EWK II'
 - day: 7-20
   id: 19N
-  location: Kane 130
-  time: 8:00:00am-12:00:00pm
+  location: Kane Hall 130
+  time: 08:00:00AM-12:00:00PM
   title: 'Energy Frontier: EWK I'
 - day: 7-20
   id: 19M
   location: Kane Hall 210
-  time: 8:00:00am-12:00:00pm
+  time: 08:00:00AM-12:00:00PM
   title: 'Energy Frontier: Top I'
 - day: 7-18
   id: 18K
   location: HUB 332
-  time: 8:00:00am-12:00:00pm
+  time: 08:00:00AM-12:00:00PM
   title: 'Energy Frontier: Higgs and BSM I'
-- day: 7-18
-  id: 18L
-  location: MGH 238
-  time: 8:00:00am-12:00:00pm
-  title: 'Energy Frontier: EF - Strong Interactions I'
 - day: 7-22
   id: 36G
   location: JHN 175
-  time: 12:30:00pm-1:45:00pm
+  time: 12:30:00PM-13:45:00PM
   title: 'US funding Agency Meetings: DOE PM: Theory'
 - day: 7-21
   id: 36D
   location: Kane Hall 130
-  time: 12:30:00pm-1:45:00pm
+  time: 12:30:00PM-13:45:00PM
   title: 'US funding Agency Meetings: NSF Special PI Meeting'
 - day: 7-21
   id: 36C
   location: Kane Hall 110
-  time: 12:30:00pm-1:45:00pm
+  time: 12:30:00PM-13:45:00PM
   title: 'US funding Agency Meetings: DOE PM: Cosmic frontier'
 - day: 7-19
   id: 36A
-  location: KNE 120
-  time: 12:30:00pm-1:45:00pm
+  location: Kane Hall 120
+  time: 12:30:00PM-13:45:00PM
   title: 'US funding Agency Meetings: FOA/DOE General Meeting'
 - day: 7-22
   id: 36F
   location: Kane Hall 130
-  time: 12:30:00pm-1:45:00pm
+  time: 12:30:00PM-13:45:00PM
   title: 'US funding Agency Meetings: DOE PM: Energy'
 - day: 7-20
   id: 36B
-  location: KNE 210
-  time: 12:30:00pm-1:45:00pm
+  location: Kane Hall 210
+  time: 12:30:00PM-13:45:00PM
   title: 'US funding Agency Meetings: NSF General Meeting'
 - day: 7-20
   id: 20O
   location: HUB 250
-  time: 10:00:00am-12:00:00pm
+  time: 10:00:00AM-12:00:00PM
   title: 'Neutrino Physics Frontier: DUNE P5 Strategy (Phase II Detector R&D)'
 - day: 7-21
   id: 35A
   location: MGH 254
-  time: 10:00:00am-12:00:00pm
+  time: 10:00:00AM-12:00:00PM
   title: 'Neutrino Physics Frontier: Experimental Neutrino Anomalies'
 - day: 7-23
   id: 20I
   location: MGH 254
-  time: 8:00:00am-12:00:00pm
+  time: 08:00:00AM-12:00:00PM
   title: 'Neutrino Physics Frontier: BSM/Dark Sectors & Reactor Neutrinos (Early Career
     Presentations)'
 - day: 7-20
   id: 20Y
   location: HUB 250
-  time: 8:00:00am-10:00:00am
+  time: 08:00:00AM-10:00:00AM
   title: 'Neutrino Physics Frontier: DUNE P5 Strategy (Expanded Physics Scope in Phase
     II)'
 - day: 7-24
   id: 20J
   location: JHN 175
-  time: 10:00:00am-12:00:00pm
+  time: 10:00:00AM-12:00:00PM
   title: 'Neutrino Physics Frontier: The Future is Now (Early Career Presentations)'
 - day: 7-24
   id: 20H
   location: JHN 022
-  time: 10:00:00am-12:00:00pm
+  time: 10:00:00AM-12:00:00PM
   title: 'Neutrino Physics Frontier: New Opportunities in Neutrinos (Early Career
     Presentations)'
 - day: 7-24
   id: 21K
   location: MGH 238
-  time: 10:00:00am-12:00:00pm
+  time: 10:00:00AM-12:00:00PM
   title: 'Neutrino Physics Frontier: Beyond neutrino mass physics reach of precision
     beta-decay experiments'
 - day: 7-24
   id: 22I
   location: JHN 026
-  time: 10:00:00am-12:00:00pm
+  time: 10:00:00AM-12:00:00PM
   title: 'Neutrino Physics Frontier: Community Engagement Success Stories'
 - day: 7-23
   id: 20K
   location: MGH 241
-  time: 8:00:00am-12:00:00pm
+  time: 08:00:00AM-12:00:00PM
   title: 'Neutrino Physics Frontier: DUNE & Neutrino Interactions (Early Career Presentations)'
 - day: 7-22
   id: 21L
   location: MGH 254
-  time: 8:00:00am-10:00:00am
+  time: 08:00:00AM-10:00:00AM
   title: 'Neutrino Physics Frontier: Optimizing Among Funding Agencies'
 - day: 7-21
   id: 21M
   location: MGH 254
-  time: 8:00:00am-10:00:00am
+  time: 08:00:00AM-10:15:00AM
   title: 'Neutrino Physics Frontier: Blue Skye/Very Long Term ideas'
 - day: 7-19
   id: 20X
   location: Kane Hall 120
-  time: 10:00:00am-12:00:00pm
-  title: 'Neutrino Physics Frontier: DUNE P5 Strategy (BSM Physics)'
+  time: 10:00:00AM-12:00:00PM
+  title: 'Neutrino Physics Frontier: DUNE P5 Strategy (Low Energy and BSM Physics)'
 - day: 7-19
   id: 20N
   location: Kane Hall 120
-  time: 8:00:00am-10:00:00am
+  time: 08:00:00AM-10:00:00AM
   title: 'Neutrino Physics Frontier: DUNE P5 Strategy (Oscillation Physics)'
 - day: 7-18
   id: 18N
   location: Kane Hall 130
-  time: 8:00:00am-12:00:00pm
+  time: 08:00:00AM-12:00:00PM
   title: 'Neutrino Physics Frontier: NF General Meeting'
 - day: 7-23
   id: 23Y
   location: JHN 102
-  time: 8:00:00am-11:00:00am
+  time: 08:00:00AM-11:00:00AM
   title: 'Rare Processes and Precision Frontier: All-Frontier Discussions'
 - day: 7-22
   id: 21R
   location: MGH 231
-  time: 10:00:00am-12:00:00pm
+  time: 10:00:00AM-12:00:00PM
   title: 'Rare Processes and Precision Frontier: RF5 Discussions'
 - day: 7-22
   id: 21B
   location: MGH 231
-  time: 8:00:00am-10:00:00am
+  time: 08:00:00AM-10:00:00AM
   title: 'Rare Processes and Precision Frontier: RF3 Discussions'
 - day: 7-20
   id: 20R
   location: HUB 337
-  time: 10:00:00am-12:00:00pm
+  time: 10:00:00AM-12:00:00PM
   title: 'Rare Processes and Precision Frontier: RF7 Exp And Theory Overview - Hadron
     Spectroscopy'
 - day: 7-20
   id: 20B
   location: HUB 337
-  time: 8:00:00am-10:00:00am
+  time: 08:00:00AM-10:00:00AM
   title: 'Rare Processes and Precision Frontier: RF6 3 Big Idea + 1 Experimental Summary
     White Papers'
 - day: 7-19
   id: 20S
   location: JHN 111
-  time: 10:00:00am-12:00:00pm
+  time: 10:00:00AM-12:00:00PM
   title: 'Rare Processes and Precision Frontier: RF2 Discussions'
 - day: 7-19
   id: 20C
   location: JHN 111
-  time: 8:00:00am-10:00:00am
+  time: 08:00:00AM-10:00:00AM
   title: 'Rare Processes and Precision Frontier: RF1 Discussions'
 - day: 7-21
   id: 24M
   location: Kane Hall 220
-  time: 8:00:00am-12:00:00pm
-  title: 'Cosmic Frontier: Report Discussion'
+  time: 08:00:00AM-12:00:00PM
+  title: 'Cosmic Frontier: Parallel'
 - day: 7-19
   id: 20W
   location: HUB 337
-  time: 11:00:00am-12:00:00pm
+  time: 11:00:00AM-12:00:00PM
   title: 'Cosmic Frontier: CF4 CF5 CF6 CF7 Dark Energy Complementarity'
 - day: 7-18
   id: 18P
   location: HUB 340
-  time: 9:00:00am-10:00:00am
+  time: 09:00:00AM-10:00:00AM
   title: 'Cosmic Frontier: CF2 Discussion'
 - day: 7-18
   id: 18I
   location: HUB 340
-  time: 8:00:00am-9:00:00am
+  time: 08:00:00AM-09:00:00AM
   title: 'Cosmic Frontier: CF1 Discussion'
 - day: 7-20
   id: 23Q
   location: Kane Hall 120
-  time: 8:00:00am-12:00:00pm
+  time: 08:00:00AM-12:00:00PM
   title: 'Cosmic Frontier: Report Discussion'
 - day: 7-19
   id: 18R
   location: HUB 337
-  time: 10:00:00am-11:00:00am
+  time: 10:00:00AM-11:00:00AM
   title: 'Cosmic Frontier: CF7 Discussion'
 - day: 7-19
   id: 18O
   location: HUB 337
-  time: 9:00:00am-10:00:00am
+  time: 09:00:00AM-10:00:00AM
   title: 'Cosmic Frontier: CF6 Discussion'
 - day: 7-19
   id: 18H
   location: HUB 337
-  time: 8:00:00am-9:00:00am
+  time: 08:00:00AM-09:00:00AM
   title: 'Cosmic Frontier: CF5 Discussion'
 - day: 7-18
   id: 18T
   location: HUB 340
-  time: 11:00:00am-12:00:00pm
+  time: 11:00:00AM-12:00:00PM
   title: 'Cosmic Frontier: CF4 Discussion'
 - day: 7-18
   id: 18S
   location: HUB 340
-  time: 10:00:00am-11:00:00am
+  time: 10:00:00AM-11:00:00AM
   title: 'Cosmic Frontier: CF3 Discussion'
 - day: 7-23
   id: 18G
   location: MGH 238
-  time: 8:00:00am-12:00:00pm
+  time: 08:00:00AM-12:00:00PM
   title: 'Theory Frontier: String theory, quantum gravity, black holes (TF01); CFT
     and formal QFT (TF03)'
 - day: 7-22
   id: 18F
   location: JHN 111
-  time: 8:00:00am-12:00:00pm
+  time: 08:00:00AM-12:00:00PM
   title: 'Theory Frontier: Theory techniques for precision physics (TF06); Collider
     phenomenology (TF07)'
 - day: 7-21
   id: 18D
   location: JHN 111
-  time: 8:00:00am-12:00:00pm
+  time: 08:00:00AM-12:00:00PM
   title: 'Theory Frontier: Effective field theory (TF02); Lattice gauge theory (TF05)'
 - day: 7-23
   id: 18E
   location: Kane Hall 210
-  time: 8:00:00am-12:00:00pm
+  time: 08:00:00AM-12:00:00PM
   title: 'Theory Frontier: BSM Model Building (TF08); Quantum Information Science
     (TF10)'
 - day: 7-20
   id: 18C
-  location: ' '
-  time: 8:00:00am-12:00:00pm
-  title: 'Theory Frontier: Astro-particle physics & cosmology(TF9); Theory of neutrino
+  location: HUB 214
+  time: 08:00:00AM-12:00:00PM
+  title: 'Theory Frontier: Astro-particle physics & cosmology (TF9); Theory of neutrino
     physics (TF11)'
 - day: 7-24
   id: 19P
   location: Kane Hall 110
-  time: 10:00:00am-12:00:00pm
+  time: 10:00:00AM-12:00:00PM
   title: 'Theory Frontier: Discussion and frontier reports'
+- day: 7-23
+  id: 18M
+  location: Kane Hall 120
+  time: 08:00:00AM-10:00:00AM
+  title: 'Accelerator Frontier: AF3 and AF4 Internal (TBD)'
 - day: 7-22
   id: 24J
   location: HUB 332
-  time: 8:00:00am-12:00:00pm
+  time: 08:00:00AM-12:00:00PM
   title: 'Accelerator Frontier: AF-wide: AF2 Report (2 hrs) and AF7-Targets and Sources
     Report (2 hrs)'
 - day: 7-18
   id: 30C
   location: ' '
-  time: 3:35:00pm-5:00:00pm
+  time: 15:35:00PM-17:00:00PM
   title: 'Accelerator Frontier: Future Accelerators for HEP, Report of the Accelerator
     Frontier Implementation Task Force (IF)'
 - day: 7-24
   id: 30P
   location: Kane Hall 220
-  time: 10:00:00am-12:00:00pm
+  time: 10:00:00AM-12:00:00PM
   title: 'Accelerator Frontier: Future Colliders R&D Program Initiative'
 - day: 7-24
   id: 22D
   location: Kane Hall 120
-  time: 10:00:00am-12:00:00pm
+  time: 10:00:00AM-12:00:00PM
   title: 'Accelerator Frontier: AF-wide: AF1 Report (2 hrs)'
-- day: 7-23
-  id: 18M
-  location: Kane 120
-  time: 8:00:00am-10:00:00am
-  title: 'Accelerator Frontier: AF3 and AF4 Internal (TBD)'
 - day: 7-23
   id: 24C
   location: Kane Hall 110
-  time: 8:00:00am-12:00:00pm
+  time: 08:00:00AM-12:00:00PM
   title: 'Accelerator Frontier: AF-wide: AF7-RF Report ( 2hrs) and AF7-Magnets Report
     (2 hrs)'
 - day: 7-22
   id: 24I
   location: HUB 214
-  time: 8:00:00am-12:00:00pm
-  title: 'Accelerator Frontier: AFx Internal (TBD)'
+  time: 08:00:00AM-12:00:00PM
+  title: 'Accelerator Frontier: AF4 Internal (TBD)'
 - day: 7-22
   id: 24H
   location: HUB 340
-  time: 8:00:00am-12:00:00pm
+  time: 08:00:00AM-12:00:00PM
   title: 'Accelerator Frontier: CCC: AF3 Internal - eeForum'
 - day: 7-21
   id: 24L
   location: JHN 102
-  time: 8:00:00am-12:00:00pm
+  time: 08:00:00AM-12:00:00PM
   title: 'Accelerator Frontier: AF5 Report (2 hrs) and AF-Summary-II (2 hrs)'
 - day: 7-21
   id: 24K
   location: JHN 175
-  time: 8:00:00am-12:00:00pm
+  time: 08:00:00AM-12:00:00PM
   title: 'Accelerator Frontier: Internal AF7 (2 hrs)'
 - day: 7-20
   id: 19C
   location: JHN 102
-  time: 8:00:00am-12:00:00pm
+  time: 08:00:00AM-12:00:00PM
   title: 'Accelerator Frontier: AF6 Report (2 hrs) and AF-Summary-I (2 hrs)'
 - day: 7-19
   id: 19F
   location: MGH 254
-  time: 8:00:00am-12:00:00pm
-  title: 'Accelerator Frontier: AF3 and AF4 Internal (TBD)'
+  time: 08:00:00AM-12:00:00PM
+  title: 'Accelerator Frontier: Several AFx Internal (ARDAP, Intl R&D)'
 - day: 7-19
   id: 19E
   location: MGH 238
-  time: 8:00:00am-12:00:00pm
+  time: 08:00:00AM-12:00:00PM
   title: 'Accelerator Frontier: AF6 and AF1 Internal (TBD)'
 - day: 7-18
   id: 19G
   location: Kane Hall 220
-  time: 8:00:00am-12:00:00pm
+  time: 08:00:00AM-12:00:00PM
   title: 'Accelerator Frontier: AF3 Report (2 hrs) and AF4 Report (2 hrs)'
 - day: 7-18
   id: 19H
   location: MGH 242
-  time: 8:00:00am-12:00:00pm
+  time: 08:00:00AM-12:00:00PM
   title: 'Accelerator Frontier: AFx Internal (TBD)'
 - day: 7-22
   id: 23D
   location: HUB 238
-  time: 8:00:00am-12:00:00pm
+  time: 08:00:00AM-12:00:00PM
   title: 'Instrumentation Frontier: IF5'
 - day: 7-24
   id: 24D
   location: JHN 075
-  time: 10:00:00am-12:00:00pm
+  time: 10:00:00AM-12:00:00PM
   title: 'Instrumentation Frontier: Vision for Detector Instrumentation in HEP'
 - day: 7-23
   id: 30N
   location: JHN 075
-  time: 10:00:00am-12:00:00pm
+  time: 10:00:00AM-12:00:00PM
   title: 'Instrumentation Frontier: Finalizing the Report with Community Input'
 - day: 7-22
   id: 24F
   location: MGH 288
-  time: 8:00:00am-12:00:00pm
+  time: 08:00:00AM-12:00:00PM
   title: 'Instrumentation Frontier: IF8'
 - day: 7-22
   id: 24E
   location: MGH 284
-  time: 8:00:00am-12:00:00pm
+  time: 08:00:00AM-12:00:00PM
   title: 'Instrumentation Frontier: IF9'
 - day: 7-21
   id: 24G
   location: HUB 307
-  time: 8:00:00am-12:00:00pm
+  time: 08:00:00AM-12:00:00PM
   title: 'Instrumentation Frontier: IF7'
 - day: 7-20
   id: 30E
   location: JHN 175
-  time: 8:00:00am-12:00:00pm
+  time: 08:00:00AM-12:00:00PM
   title: 'Instrumentation Frontier: Discussing the Report with the Community'
 - day: 7-19
   id: 23F
-  location: MGH288 288
-  time: 8:00:00am-12:00:00pm
+  location: MGH 288
+  time: 08:00:00AM-12:00:00PM
   title: 'Instrumentation Frontier: IF3'
 - day: 7-19
   id: 30V
   location: MGH 284
-  time: 8:00:00am-12:00:00pm
-  title: 'Instrumentation Frontier: IF IF4'
+  time: 08:00:00AM-12:00:00PM
+  title: 'Instrumentation Frontier: IF4'
 - day: 7-19
   id: 23C
   location: MGH 248
-  time: 8:00:00am-12:00:00pm
+  time: 08:00:00AM-12:00:00PM
   title: 'Instrumentation Frontier: IF6'
 - day: 7-19
   id: 23E
   location: MGH 242
-  time: 8:00:00am-12:30:00pm
+  time: 08:00:00AM-12:50:00PM
   title: 'Instrumentation Frontier: IF10'
 - day: 7-18
   id: 23H
   location: MGH 288
-  time: 8:00:00am-12:00:00pm
+  time: 08:00:00AM-12:00:00PM
   title: 'Instrumentation Frontier: IF1'
 - day: 7-18
   id: 23G
   location: MGH 284
-  time: 8:00:00am-12:00:00pm
+  time: 08:00:00AM-12:00:00PM
   title: 'Instrumentation Frontier: IF2'
 - day: 7-21
   id: ''
-  location: ' '
-  time: 12:30:00pm-1:45:00pm
+  location: PAC 231
+  time: 12:30:00PM-13:45:00PM
   title: 'Computational Frontier: HLS4ML training'
 - day: 7-23
   id: 21E
   location: JHN 111
-  time: 10:00:00am-12:00:00pm
+  time: 10:00:00AM-12:00:00PM
   title: 'Computational Frontier: Small Experiments'
 - day: 7-22
   id: 30L
   location: Kane Hall 220
-  time: 10:00:00am-12:00:00pm
+  time: 10:00:00AM-12:00:00PM
   title: 'Computational Frontier: Industry Session'
 - day: 7-22
   id: 30K
   location: Kane Hall 220
-  time: 8:00:00am-10:00:00am
+  time: 08:00:00AM-10:00:00AM
   title: 'Computational Frontier: Report Discussion'
 - day: 7-21
   id: 20D
   location: MGH 284
-  time: 10:00:00am-12:00:00pm
+  time: 10:00:00AM-12:00:00PM
   title: 'Computational Frontier: CompF7 Reinterpretation and long-term preservation
     of data and code'
 - day: 7-20
   id: 20T
   location: MGH 248
-  time: 10:00:00am-12:00:00pm
+  time: 10:00:00AM-12:00:00PM
   title: 'Computational Frontier: CompF6 Quantum Computing'
 - day: 7-20
   id: 20E
   location: MGH 248
-  time: 8:00:00am-10:05:00am
+  time: 08:00:00AM-09:50:00AM
   title: 'Computational Frontier: CompF1 Experimental Algorithm Parallelization'
 - day: 7-19
   id: 20U
   location: HUB 238
-  time: 10:00:00am-12:00:00pm
+  time: 10:00:00AM-12:00:00PM
   title: 'Computational Frontier: CompF4 Storage and Processing Resource Areas'
 - day: 7-19
   id: 20F
   location: HUB 238
-  time: 8:00:00am-10:00:00am
+  time: 08:00:00AM-10:00:00AM
   title: 'Computational Frontier: CompF3 Machine Learning (20F)'
 - day: 7-18
   id: 20V
   location: MGH 254
-  time: 10:00:00am-12:00:00pm
+  time: 10:00:00AM-12:15:00PM
   title: 'Computational Frontier: CompF2 Theoretical Calculations and Simulation'
 - day: 7-18
   id: 20G
   location: MGH 254
-  time: 8:00:00am-10:00:00am
+  time: 08:00:00AM-10:00:00AM
   title: 'Computational Frontier: CompF5 End User Analysis'
-- day: 7-25
-  id: ''
-  location: ' '
-  time: 7:10:00pm--2:10:00am
-  title: 'Social: Mariner''s Baseball Night'
-- day: 7-23
-  id: ''
-  location: ' '
-  time: 7:30:00pm-9:00:00pm
-  title: 'Social: Colliderscope'
-- day: 7-22
-  id: ''
-  location: ' '
-  time: 7:30:00pm-9:30:00pm
-  title: 'Social: Conference Dinner'
-- day: 7-21
-  id: ''
-  location: ' '
-  time: 7:30:00pm-8:30:00pm
-  title: 'Social: Physics Slam'
-- day: 7-20
-  id: ''
-  location: ' '
-  time: 7:30:00pm-8:30:00pm
-  title: 'Social: Adam Riess Public Lecture'
-- day: 7-19
-  id: ''
-  location: ' '
-  time: 7:30:00pm--2:00:00am
-  title: 'Social: Industry Networking'
-- day: 7-18
-  id: ''
-  location: HUB South Ballroom
-  time: 7:00:00pm-9:00:00pm
-  title: 'Social: Reception & Poster Session'
-- day: 7-20
-  id: 22F
-  location: JHN 111
-  time: 8:00:00am-10:00:00am
-  title: 'Cross Frontier Meetings: Quantum Science & Technology (QST) Instrumentation
-    (IF) & Underground Facilities (UF)'
-- day: 7-23
-  id: 21Z
-  location: JHN 111
-  time: 8:00:00am-10:00:00am
-  title: 'Cross Frontier Meetings: TF-CompF QIS'
-- day: 7-19
-  id: 19A
-  location: MGH 241
-  time: 10:00:00am-12:00:00pm
-  title: 'Cross Frontier Meetings: UF-NF-RF Facilities for measurements of 0nbb and
-    neutrinos from natural sources'
-- day: 7-20
-  id: ''
-  location: ' '
-  time: 8:00:00am-12:00:00pm
-  title: 'Cross Frontier Meetings: AF-NF AF2-AF5-NF9 Booster Replacement Options'
-- day: 7-21
-  id: 21J
-  location: HUB 340
-  time: 8:00:00am-10:00:00am
-  title: 'Cross Frontier Meetings: IF-RF-EF Fast timing requirements and technology
-    developments for future experiments'
-- day: 7-19
-  id: 19J
-  location: JHN 175
-  time: 8:00:00am-12:00:00pm
-  title: 'Cross Frontier Meetings: TF-EF Energy Frontier Theory'
-- day: 7-22
-  id: 22H
-  location: ' '
-  time: 8:00:00am-10:00:00am
-  title: 'Cross Frontier Meetings: NF-EF Cross-cutting issues'
-- day: 7-21
-  id: 18X
-  location: Kane Hall  110
-  time: 8:00:00am-10:00:00am
-  title: 'Cross Frontier Meetings: EF-CompF Big Experiments'
-- day: 7-24
-  id: 22C
-  location: JHN 111
-  time: 10:00:00am-12:00:00pm
-  title: 'Cross Frontier Meetings: NF-CF Neutrino mass scale with beta decay kinematics,
-    double beta decay, and cosmology'
-- day: 7-24
-  id: 22N
-  location: JHN 102
-  time: 10:00:00am-12:00:00pm
-  title: 'Cross Frontier Meetings: NF-CF-TF high energy and ultrahigh energy astrophysical
-    neutrino'
-- day: 7-22
-  id: 23A
-  location: MGH 248
-  time: 10:00:00am-12:00:00pm
-  title: 'Cross Frontier Meetings: RF-EF-TF RF7-EF6-EF7 hadrons as production probes;
-    production mechanisms probing the internal structure of exotic hadrons'
-- day: 7-21
-  id: 24B
-  location: MGH 242
-  time: 10:00:00am-12:00:00pm
-  title: 'Cross Frontier Meetings: RF-CF RF1 large-volume data analysis and simulation
-    and usage of HPC in data analysis'
-- day: 7-20
-  id: 30G
-  location: HUB 340
-  time: 10:00:00am-12:00:00pm
-  title: 'Cross Frontier Meetings: RF-EF Long Lived Particles'
-- day: 7-19
-  id: 20L
-  location: Kane Hall 220
-  time: 8:00:00am-12:00:00pm
-  title: 'Cross Frontier Meetings: CF-EF-RF-TF CF1 CF2 CF3 CF7 DM Complementarity'
-- day: 7-18
-  id: 18A
-  location: HUB 334
-  time: 8:00:00am-12:00:00pm
-  title: 'Cross Frontier Meetings: XF CEF-EF-NF-RF-CF-TF-AF-IF-CompF-UF CEF Feedback'
-- day: 7-24
-  id: 22E
-  location: Kane Hall 210
-  time: 10:00:00am-12:00:00pm
-  title: 'Cross Frontier Meetings: AF-CompF Cross-cutting issues'
-- day: 7-24
-  id: 22B
-  location: Kane Hall 130
-  time: 10:00:00am-12:00:00pm
-  title: 'Cross Frontier Meetings: AF-RF cross-cutting issues'
-- day: 7-24
-  id: 24A
-  location: MGH 254
-  time: 10:00:00am-12:00:00pm
-  title: 'Cross Frontier Meetings: RF-NF RF5 to discuss CLFV and neutrinos - mu2e
-    and facilities'
-- day: 7-23
-  id: 22K
-  location: MGH 231
-  time: 10:00:00am-12:00:00pm
-  title: 'Cross Frontier Meetings: NF-TF Neutrino theory network'
-- day: 7-23
-  id: 19K
-  location: Kane Hall 220
-  time: 8:00:00am-12:00:00pm
-  title: 'Cross Frontier Meetings: TF-CF Cosmic Frontier Theory'
-- day: 7-23
-  id: 22J
-  location: JHN 026
-  time: 10:00:00am-12:00:00pm
-  title: 'Cross Frontier Meetings: NF-CF-IF Dark matter detector'
-- day: 7-23
-  id: 21G
-  location: JHN 026
-  time: 8:00:00am-10:00:00am
-  title: 'Cross Frontier Meetings: IF-NF Instrumentation for Neutrino Experiments'
-- day: 7-23
-  id: 21F
-  location: JHN 022
-  time: 8:00:00am-10:00:00am
-  title: 'Cross Frontier Meetings: IF-UF Cross-cutting Facilities'
-- day: 7-22
-  id: 21V
-  location: JHN 022
-  time: 10:00:00am-12:00:00pm
-  title: 'Cross Frontier Meetings: EF-AF combined EF/AF report discussion'
-- day: 7-22
-  id: 22G
-  location: HUB 337
-  time: 8:00:00am-10:00:00am
-  title: 'Cross Frontier Meetings: AF-EF Accelerator R&D Overseas'
-- day: 7-21
-  id: 24O
-  location: MGH 231
-  time: 10:00:00am-12:00:00pm
-  title: 'Cross Frontier Meetings: RF-EF-AF RF5 to discuss CLFV and heavy states'
-- day: 7-21
-  id: 21I
-  location: HUB 337
-  time: 8:00:00am-12:00:00pm
-  title: 'Cross Frontier Meetings: IF-EF-AF Detectors and MDI and Plots'
-- day: 7-21
-  id: 22A
-  location: MGH 241
-  time: 8:00:00am-10:00:00am
-  title: 'Cross Frontier Meetings: RF-EF-TF RF1 Flavor anomalies and exotics at colliders'
-- day: 7-21
-  id: 18Q
-  location: MGH 231
-  time: 8:00:00am-10:00:00am
-  title: 'Cross Frontier Meetings: Long Baseline Neutrinos and Underground Facilities
-    (UF) for the Neutrino Frontier (NF)'
-- day: 7-17
-  id: 17D
-  location: Kane Hall 130
-  time: 2:00:00pm-4:00:00pm
-  title: 'Plenary: Snowmass Workshop  Charge II'
-- day: 7-25
-  id: 30T
-  location: Kane Hall 130
-  time: 4:00:00pm-5:30:00pm
-  title: 'Plenary: National & International Leaders'
-- day: 7-26
-  id: 26B
-  location: Kane Hall 130
-  time: 8:00:00am-12:35:00pm
-  title: 'Plenary: Summary, Part 2'
-- day: 7-25
-  id: 30U
-  location: Kane Hall 130
-  time: 5:30:00pm-7:00:00pm
-  title: 'Plenary: Panel: International Status and Plans'
-- day: 7-25
-  id: 25C
-  location: Kane Hall 130
-  time: 2:00:00pm-3:30:00pm
-  title: 'Plenary: Panel: Interconnections to other fields'
-- day: 7-25
-  id: 25B
-  location: Kane Hall 130
-  time: 8:00:00am-12:00:00pm
-  title: 'Plenary: Summary, Part 1'
-- day: 7-17
-  id: 17B
-  location: Kane Hall 130
-  time: 9:00:00am-12:15:00pm
-  title: 'Plenary: Snowmass Workshop Charge - I'
-- day: 7-19
-  id: 30D
-  location: Kane Hall 120
-  time: 3:30:00pm-5:00:00pm
-  title: 'Afternoon Plenary: Energy Frontier: Lepton Colliders'
-- day: 7-24
-  id: 30Q
-  location: Kane Hall 210
-  time: 3:35:00pm-4:58:00pm
-  title: 'Afternoon Plenary: Public Engagement to Reach Underrepresented Minorities'
-- day: 7-18
-  id: 18Z
-  location: Kane Hall 130
-  time: 5:30:00pm-7:00:00pm
-  title: 'Afternoon Plenary: In Search of  Excellence and Equity in Physics'
-- day: 7-21
-  id: 23W
-  location: JHN 102
-  time: 5:30:00pm-7:00:00pm
-  title: 'Afternoon Plenary: Cosmic Probes of Fundamental Physics'
-- day: 7-20
-  id: 30H
-  location: Kane 220
-  time: 2:00:00pm-3:30:00pm
-  title: 'Afternoon Plenary: Rare Proceses and Precision measurement and AMO'
-- day: 7-19
-  id: 19V
-  location: Kane Hall 130
-  time: 5:30:00pm-7:05:00pm
-  title: 'Afternoon Plenary: HEP Community Engagement: Is the HEP Community going
-    to take responsibility for Engagement (or not)?'
-- day: 7-19
-  id: 30W
-  location: Kane Hall 130
-  time: 3:30:00pm-5:00:00pm
-  title: 'Afternoon Plenary: Cosmic Frontier: Paths to Discovery'
-- day: 7-18
-  id: 30A
-  location: Kane Hall 220
-  time: 2:00:00pm-3:29:00pm
-  title: 'Afternoon Plenary: AI/MLModern Machine Learning for HEP'
-- day: 7-20
-  id: 30I
-  location: Kane Hall 220
-  time: 3:40:00pm-5:13:00pm
-  title: 'Afternoon Plenary: Detector Technologies for the Next Decades'
-- day: 7-24
-  id: 24U
-  location: Kane Hall 120
-  time: 5:30:00pm-7:00:00pm
-  title: 'Afternoon Plenary: DOE NSF FNAL Director and other US Labs Panel'
-- day: 7-24
-  id: 30R
-  location: Kane Hall 110
-  time: 3:37:00pm-5:27:00pm
-  title: 'Afternoon Plenary: Careers in Detector Instrumentation'
-- day: 7-24
-  id: 24S
-  location: Kane Hall 110
-  time: 2:00:00pm-3:30:00pm
-  title: 'Afternoon Plenary: Snowmass Early Career'
-- day: 7-23
-  id: 23X
-  location: Kane Hall 130
-  time: 5:30:00pm-7:10:00pm
-  title: 'Afternoon Plenary: HEP/Quantum Scence and Techinology (QST)  Intersections'
-- day: 7-23
-  id: 30O
-  location: Kane Hall 110
-  time: 3:30:00pm-5:00:00pm
-  title: 'Afternoon Plenary: The Future of Computing for HEP'
-- day: 7-23
-  id: 21W
-  location: Kane Hall 130
-  time: 2:00:00pm-3:30:00pm
-  title: 'Afternoon Plenary: Physics on the Energy Frontier'
-- day: 7-22
-  id: 22W
-  location: Kane Hall 220
-  time: 5:30:00pm-7:00:00pm
-  title: 'Afternoon Plenary: Big Picture Neutrino Science'
-- day: 7-22
-  id: 30M
-  location: HUB 250
-  time: 3:30:00pm-5:00:00pm
-  title: 'Afternoon Plenary: Theory Frontier: A Vision for the Future'
-- day: 7-22
-  id: 22V
-  location: HUB 250
-  time: 2:00:00pm-3:30:00pm
-  title: 'Afternoon Plenary: Advancing Research at Underground Facilities (UF)'
-- day: 7-21
-  id: 30I
-  location: JHN 102
-  time: 3:30:00pm-5:00:00pm
-  title: 'Afternoon Plenary: Accelerator Technologies of the future'
-- day: 7-21
-  id: 21U
-  location: JHN 102
-  time: 2:00:00pm-3:30:00pm
-  title: 'Afternoon Plenary: Rare Prcesses and Precision Measurements'
-- day: 7-20
-  id: 20BB
-  location: Kane Hall 210
-  time: 2:00:00pm-3:23:00pm
-  title: 'Afternoon Plenary: Neutrino Frontier Connections, Progress, and Plans'
-- day: 7-19
-  id: 19S
-  location: Kane Hall 130
-  time: 2:00:00pm-3:23:00pm
-  title: 'Afternoon Plenary: Panel:  Careers and Training the Next Generations'
-- day: 7-18
-  id: 30C
-  location: Kane Hall 130
-  time: 3:35:00pm-5:00:00pm
-  title: 'Afternoon Plenary: Lattice QCD'
-- day: 7-18
-  id: 18U
-  location: Kane Hall 130
-  time: 2:00:00pm-3:30:00pm
-  title: 'Afternoon Plenary: A Tour of Underground Facilities & Science: Today and
-    Tomorrow'
-- day: 7-17
-  id: 17E
-  location: Kane Hall 130
-  time: 4:30:00pm-6:45:00pm
-  title: 'Afternoon Plenary: Planning US HEP - past present future'
-- day: 7-17
-  id: ''
-  location: Kane Hall Lobby
-  time: 7:30:00am-9:00:00am
-  title: 'Conference Logistics: Registration'
-- day: 7-22
-  id: 36H
-  location: Kane Hall 220
-  time: 12:30:00pm-1:45:00pm
-  title: 'Community Engagement Frontier: Early Career panel'
-- day: 7-19
-  id: 21D
-  location: MGH 231
-  time: 8:00:00am-12:00:00pm
-  title: 'Community Engagement Frontier: Frontier Discussion'
 - day: 7-20
   id: 18B
   location: JHN 111
-  time: 10:00:00am-12:00:00pm
+  time: 10:00:00AM-12:00:00PM
   title: 'Underground Facilities Frontier: UF5 - Synergistic Underground Science &
     Facilities'
 - day: 7-19
   id: 19B
-  location: ' '
-  time: 8:00:00am-10:00:00am
+  location: HUB 307
+  time: 08:00:00AM-10:00:00AM
   title: 'Underground Facilities Frontier: UF2 - Underground Facilities for Cosmic
     Frontier'
 - day: 7-24
   id: 23B
   location: MGH 242
-  time: 10:00:00am-12:00:00pm
+  time: 10:00:00AM-12:00:00PM
   title: 'Underground Facilities Frontier: UF6 - Underground Facilities Gaps & Needs'
 - day: 7-23
   id: 21C
   location: JHN 022
-  time: 10:00:00am-12:00:00pm
+  time: 10:00:00AM-12:00:00PM
   title: 'Underground Facilities Frontier: UF4 - Supporting Capabilities for Underground
     Research'
 - day: 7-22
   id: 22Q
   location: MGH 242
-  time: 10:00:00am-12:00:00pm
+  time: 10:00:00AM-12:00:00PM
   title: 'Underground Facilities Frontier: UF1 - Underground Facilities for Neutrinos'
+- day: 7-22
+  id: 36H
+  location: Kane Hall 220
+  time: 12:30:00PM-13:45:00PM
+  title: 'Community Engagement Frontier: Early Career panel'
+- day: 7-19
+  id: 21D
+  location: MGH 231
+  time: 08:00:00AM-12:00:00PM
+  title: 'Community Engagement Frontier: Frontier Discussion'
+- day: 7-20
+  id: 22F
+  location: JHN 111
+  time: 08:00:00AM-10:00:00AM
+  title: 'Cross Frontier Meetings: Quantum Science & Technology (QST) Instrumentation
+    (IF) & Underground Facilities (UF)'
+- day: 7-23
+  id: 21Z
+  location: JHN 111
+  time: 08:00:00AM-10:00:00AM
+  title: 'Cross Frontier Meetings: TF-CompF QIS'
+- day: 7-19
+  id: 19A
+  location: MGH 241
+  time: 10:00:00AM-12:00:00PM
+  title: 'Cross Frontier Meetings: UF-NF-RF Facilities for measurements of 0nbb and
+    neutrinos from natural sources'
+- day: 7-20
+  id: 30E
+  location: MGH 231
+  time: 08:00:00AM-12:00:00PM
+  title: 'Cross Frontier Meetings: AF-NF AF2-AF5-NF9 Booster Replacement Options'
+- day: 7-21
+  id: 21J
+  location: HUB 340
+  time: 08:00:00AM-10:00:00AM
+  title: 'Cross Frontier Meetings: IF-RF-EF Fast timing requirements and technology
+    developments for future experiments'
+- day: 7-19
+  id: 19J
+  location: JHN 175
+  time: 08:00:00AM-12:00:00PM
+  title: 'Cross Frontier Meetings: TF-EF Energy Frontier Theory'
+- day: 7-22
+  id: 22H
+  location: ' '
+  time: 08:00:00AM-10:00:00AM
+  title: 'Cross Frontier Meetings: NF-EF Cross-cutting issues'
+- day: 7-21
+  id: 18X
+  location: Kane Hall 110
+  time: 08:00:00AM-10:00:00AM
+  title: 'Cross Frontier Meetings: EF-CompF Big Experiments'
+- day: 7-24
+  id: 22C
+  location: JHN 111
+  time: 10:00:00AM-12:00:00PM
+  title: 'Cross Frontier Meetings: NF-CF Neutrino mass scale with beta decay kinematics,
+    double beta decay, and cosmology'
+- day: 7-24
+  id: 22N
+  location: JHN 102
+  time: 10:00:00AM-12:00:00PM
+  title: 'Cross Frontier Meetings: NF-CF-TF high energy and ultrahigh energy astrophysical
+    neutrino'
+- day: 7-22
+  id: 23A
+  location: MGH 248
+  time: 10:00:00AM-12:00:00PM
+  title: 'Cross Frontier Meetings: RF-EF-TF RF7-EF6-EF7 hadrons as production probes;
+    production mechanisms probing the internal structure of exotic hadrons'
+- day: 7-21
+  id: 24B
+  location: MGH 242
+  time: 10:00:00AM-12:00:00PM
+  title: 'Cross Frontier Meetings: RF-CF RF1 large-volume data analysis and simulation
+    and usage of HPC in data analysis'
+- day: 7-20
+  id: 30G
+  location: HUB 340
+  time: 10:00:00AM-12:00:00PM
+  title: 'Cross Frontier Meetings: RF-EF Long Lived Particles'
+- day: 7-19
+  id: 20L
+  location: Kane Hall 220
+  time: 08:00:00AM-12:00:00PM
+  title: 'Cross Frontier Meetings: CF-EF-RF-TF CF1 CF2 CF3 CF7 DM Complementarity'
+- day: 7-18
+  id: 18A
+  location: HUB 334
+  time: 08:00:00AM-12:00:00PM
+  title: 'Cross Frontier Meetings: XF CEF-EF-NF-RF-CF-TF-AF-IF-CompF-UF CEF Feedback'
+- day: 7-24
+  id: 22E
+  location: Kane Hall 210
+  time: 10:00:00AM-12:00:00PM
+  title: 'Cross Frontier Meetings: AF-CompF Cross-cutting issues'
+- day: 7-24
+  id: 22B
+  location: Kane Hall 130
+  time: 10:00:00AM-12:00:00PM
+  title: 'Cross Frontier Meetings: AF-RF cross-cutting issues'
+- day: 7-24
+  id: 24A
+  location: MGH 254
+  time: 10:00:00AM-12:00:00PM
+  title: 'Cross Frontier Meetings: RF-NF RF5 to discuss CLFV and neutrinos - mu2e
+    and facilities'
+- day: 7-23
+  id: 22K
+  location: MGH 231
+  time: 10:00:00AM-12:00:00PM
+  title: 'Cross Frontier Meetings: NF-TF Neutrino theory network'
+- day: 7-23
+  id: 19K
+  location: Kane Hall 220
+  time: 08:00:00AM-12:00:00PM
+  title: 'Cross Frontier Meetings: TF-CF Cosmic Frontier Theory'
+- day: 7-23
+  id: 22J
+  location: JHN 026
+  time: 10:00:00AM-12:00:00PM
+  title: 'Cross Frontier Meetings: NF-CF-IF Dark matter detector'
+- day: 7-23
+  id: 21G
+  location: JHN 026
+  time: 08:00:00AM-10:00:00AM
+  title: 'Cross Frontier Meetings: IF-NF Instrumentation for Neutrino Experiments'
+- day: 7-23
+  id: 21F
+  location: JHN 022
+  time: 08:00:00AM-10:00:00AM
+  title: 'Cross Frontier Meetings: IF-UF Cross-cutting Facilities'
+- day: 7-22
+  id: 21V
+  location: JHN 022
+  time: 10:00:00AM-12:00:00PM
+  title: 'Cross Frontier Meetings: EF-AF combined EF/AF report discussion'
+- day: 7-22
+  id: 22G
+  location: HUB 337
+  time: 08:00:00AM-10:00:00AM
+  title: 'Cross Frontier Meetings: AF-EF Accelerator R&D Overseas'
+- day: 7-21
+  id: 24O
+  location: MGH 231
+  time: 10:00:00AM-12:00:00PM
+  title: 'Cross Frontier Meetings: RF-EF-AF RF5 to discuss CLFV and heavy states'
+- day: 7-21
+  id: 21I
+  location: HUB 337
+  time: 08:00:00AM-12:00:00PM
+  title: 'Cross Frontier Meetings: IF-EF-AF Detectors and MDI and Plots'
+- day: 7-21
+  id: 22A
+  location: MGH 241
+  time: 08:00:00AM-10:00:00AM
+  title: 'Cross Frontier Meetings: RF-EF-TF RF1 Flavor anomalies and exotics at colliders'
+- day: 7-21
+  id: 18Q
+  location: MGH 231
+  time: 08:00:00AM-10:00:00AM
+  title: 'Cross Frontier Meetings: Long Baseline Neutrinos and Underground Facilities
+    (UF) for the Neutrino Frontier (NF)'
+- day: 7-17
+  id: 17D
+  location: Kane Hall 130
+  time: 14:00:00PM-16:00:00PM
+  title: 'Plenary: Snowmass Workshop  Charge II'
+- day: 7-25
+  id: 30T
+  location: Kane Hall 130
+  time: 16:00:00PM-17:30:00PM
+  title: 'Plenary: National & International Leaders'
+- day: 7-26
+  id: 26B
+  location: Kane Hall 130
+  time: 08:00:00AM-12:35:00PM
+  title: 'Plenary: Summary, Part 2'
+- day: 7-25
+  id: 30U
+  location: Kane Hall 130
+  time: 17:30:00PM-19:00:00PM
+  title: 'Plenary: Panel: International Status and Plans'
+- day: 7-25
+  id: 25C
+  location: Kane Hall 130
+  time: 14:00:00PM-15:30:00PM
+  title: 'Plenary: Panel: Interconnections to other fields'
+- day: 7-25
+  id: 25B
+  location: Kane Hall 130
+  time: 08:00:00AM-12:00:00PM
+  title: 'Plenary: Summary, Part 1'
+- day: 7-17
+  id: 17B
+  location: Kane Hall 130
+  time: 09:00:00AM-12:15:00PM
+  title: 'Plenary: Snowmass Workshop Charge - I'
+- day: 7-22
+  id: 22V
+  location: Kane Hall 130
+  time: 14:00:00PM-15:30:00PM
+  title: 'Afternoon Plenary: Advancing Research at Underground Facilities (UF)'
+- day: 7-19
+  id: 19V
+  location: Kane Hall 130
+  time: 17:30:00PM-19:00:00PM
+  title: 'Afternoon Plenary: HEP Community Engagement: Is the HEP Community going
+    to take responsibility for Engagement (or not)?'
+- day: 7-19
+  id: 30D
+  location: Kane Hall 120
+  time: 15:30:00PM-17:00:00PM
+  title: 'Afternoon Plenary: Energy Frontier: Lepton Colliders'
+- day: 7-24
+  id: 30Q
+  location: Kane Hall 210
+  time: 15:37:00PM-17:00:00PM
+  title: 'Afternoon Plenary: Communicating Science to Everyone'
+- day: 7-18
+  id: 18Z
+  location: Kane Hall 130
+  time: 17:30:00PM-19:00:00PM
+  title: 'Afternoon Plenary: In Search of  Excellence and Equity in Physics'
+- day: 7-21
+  id: 23W
+  location: Kane Hall 130
+  time: 17:30:00PM-19:00:00PM
+  title: 'Afternoon Plenary: Cosmic Probes of Fundamental Physics'
+- day: 7-20
+  id: 30H
+  location: Kane Hall 220
+  time: 14:00:00PM-15:30:00PM
+  title: 'Afternoon Plenary: Rare Proceses and Precision measurement and AMO'
+- day: 7-19
+  id: 30W
+  location: Kane Hall 130
+  time: 15:30:00PM-17:00:00PM
+  title: 'Afternoon Plenary: Cosmic Frontier: Paths to Discovery'
+- day: 7-18
+  id: 30A
+  location: Kane Hall 220
+  time: 14:00:00PM-15:29:00PM
+  title: 'Afternoon Plenary: AI/ML Modern Machine Learning for HEP'
+- day: 7-20
+  id: 30I
+  location: Kane Hall 220
+  time: 15:40:00PM-17:13:00PM
+  title: 'Afternoon Plenary: Detector Technologies for the Next Decades'
+- day: 7-24
+  id: 24U
+  location: Kane Hall 120
+  time: 17:30:00PM-19:00:00PM
+  title: 'Afternoon Plenary: DOE NSF FNAL Director and other US Labs Panel'
+- day: 7-24
+  id: 30R
+  location: Kane Hall 110
+  time: 15:37:00PM-17:07:00PM
+  title: 'Afternoon Plenary: Careers in Detector Instrumentation'
+- day: 7-24
+  id: 24S
+  location: Kane Hall 110
+  time: 14:00:00PM-15:30:00PM
+  title: 'Afternoon Plenary: Snowmass Early Career'
+- day: 7-23
+  id: 23X
+  location: Kane Hall 130
+  time: 17:30:00PM-19:10:00PM
+  title: 'Afternoon Plenary: HEP/Quantum Scence and Techinology (QST)  Intersections'
+- day: 7-23
+  id: 30O
+  location: Kane Hall 110
+  time: 15:30:00PM-17:00:00PM
+  title: 'Afternoon Plenary: The Future of Computing for HEP'
+- day: 7-23
+  id: 21W
+  location: Kane Hall 130
+  time: 14:00:00PM-15:30:00PM
+  title: 'Afternoon Plenary: Physics on the Energy Frontier'
+- day: 7-22
+  id: 22W
+  location: Kane Hall 130
+  time: 17:30:00PM-19:00:00PM
+  title: 'Afternoon Plenary: Big Picture Neutrino Science'
+- day: 7-22
+  id: 30M
+  location: Kane Hall 130
+  time: 15:30:00PM-17:00:00PM
+  title: 'Afternoon Plenary: Theory Frontier: A Vision for the Future'
+- day: 7-21
+  id: 30I
+  location: Kane Hall 130
+  time: 15:30:00PM-17:00:00PM
+  title: 'Afternoon Plenary: Accelerator Technologies of the future'
+- day: 7-21
+  id: 21U
+  location: Kane Hall 130
+  time: 14:00:00PM-15:30:00PM
+  title: 'Afternoon Plenary: Rare Prcesses and Precision Measurements'
+- day: 7-20
+  id: 20BB
+  location: Kane Hall 210
+  time: 14:00:00PM-15:23:00PM
+  title: 'Afternoon Plenary: Neutrino Frontier Connections, Progress, and Plans'
+- day: 7-19
+  id: 19S
+  location: Kane Hall 130
+  time: 14:00:00PM-15:23:00PM
+  title: 'Afternoon Plenary: Panel:  Careers and Training the Next Generations'
+- day: 7-18
+  id: 30C
+  location: Kane Hall 130
+  time: 15:35:00PM-17:00:00PM
+  title: 'Afternoon Plenary: Lattice QCD'
+- day: 7-18
+  id: 18U
+  location: Kane Hall 130
+  time: 14:00:00PM-15:30:00PM
+  title: 'Afternoon Plenary: A Tour of Underground Facilities & Science: Today and
+    Tomorrow'
+- day: 7-17
+  id: 17E
+  location: Kane Hall 130
+  time: 16:30:00PM-18:45:00PM
+  title: 'Afternoon Plenary: Planning US HEP - past present future'
+- day: 7-16
+  id: ''
+  location: Oak Hall Denny Room
+  time: 13:00:00PM-16:00:00PM
+  title: 'Conference Logistics: Pre-Registration'
+- day: 7-16
+  id: ''
+  location: Kane Hall Lobby
+  time: 08:00:00AM-12:00:00PM
+  title: 'Conference Logistics: Pre-Registration'
+- day: 7-17
+  id: ''
+  location: Kane Hall Lobby
+  time: 07:30:00AM-09:00:00AM
+  title: 'Conference Logistics: Registration'
 - day: 7-24
   id: 36J
   location: Kane Hall 210
-  time: 12:30:00pm-1:45:00pm
+  time: 12:30:00PM-13:45:00PM
   title: 'Birds of a Feather: COVID Roundtable (lessons (to be) learned)'
 - day: 7-23
   id: 36I
   location: Kane Hall 110
-  time: 12:30:00pm-1:45:00pm
+  time: 12:30:00PM-13:45:00PM
   title: "Birds of a Feather: Communicating HEP to the public and the gov\u2019t"
 - day: 7-21
   id: 36E
-  location: 'Kane Hall '
-  time: 12:30:00pm-1:45:00pm
+  location: Kane Hall 210
+  time: 12:30:00PM-13:45:00PM
   title: 'Birds of a Feather: Mental Health, Invisible Disabilities, and Neurodiversity'
+- day: 7-18
+  id: ''
+  location: HUB 211 South Ballroom
+  time: 19:00:00PM-21:00:00PM
+  title: 'Poster Session: Poster Session'
+- day: 7-25
+  id: 50A
+  location: 'Mariner''s Baseball Stadium '
+  time: 19:10:00PM-22:10:00PM
+  title: 'Social: Mariner''s Baseball Night'
+- day: 7-23
+  id: 50B
+  location: 'Blue Moon Tavern '
+  time: 19:30:00PM-21:00:00PM
+  title: 'Social: Colliderscope'
+- day: 7-22
+  id: ''
+  location: HUB 211 South Ballroom
+  time: 19:30:00PM-21:30:00PM
+  title: 'Social: Conference Dinner'
+- day: 7-21
+  id: ''
+  location: Kane Hall 130
+  time: 19:30:00PM-20:30:00PM
+  title: 'Social: Physics Slam'
+- day: 7-20
+  id: ''
+  location: Kane Hall 130
+  time: 19:30:00PM-20:30:00PM
+  title: 'Social: Adam Riess Public Lecture'
+- day: 7-19
+  id: ''
+  location: HUB 211 South Ballroom
+  time: 19:30:00PM-22:00:00PM
+  title: 'Social: Industry Networking'
+- day: 7-18
+  id: ''
+  location: HUB 211 South Ballroom
+  time: 19:00:00PM-21:00:00PM
+  title: 'Social: Reception & Poster Session'
