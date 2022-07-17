@@ -239,6 +239,11 @@
   location: HUB 340
   time: 10:00:00AM-11:00:00AM
   title: 'Cosmic Frontier: CF3 Discussion'
+- day: 7-21
+  id: 35C
+  location: JHN 175
+  time: 08:00:00AM-10:00:00AM
+  title: "Theory Frontier: TF \u2013 TF04 Amplitudes"
 - day: 7-23
   id: 18G
   location: MGH 238
@@ -286,7 +291,7 @@
     Report (2 hrs)'
 - day: 7-18
   id: 30C
-  location: ' '
+  location: Kane Hall 220
   time: 15:35:00PM-17:00:00PM
   title: 'Accelerator Frontier: Future Accelerators for HEP, Report of the Accelerator
     Frontier Implementation Task Force (IF)'
@@ -318,7 +323,7 @@
   title: 'Accelerator Frontier: CCC: AF3 Internal - eeForum'
 - day: 7-21
   id: 24L
-  location: JHN 102
+  location: Kane Hall 130
   time: 08:00:00AM-12:00:00PM
   title: 'Accelerator Frontier: AF5 Report (2 hrs) and AF-Summary-II (2 hrs)'
 - day: 7-21
@@ -382,7 +387,7 @@
   time: 08:00:00AM-12:00:00PM
   title: 'Instrumentation Frontier: IF7'
 - day: 7-20
-  id: 30E
+  id: 30F
   location: JHN 175
   time: 08:00:00AM-12:00:00PM
   title: 'Instrumentation Frontier: Discussing the Report with the Community'
@@ -404,7 +409,7 @@
 - day: 7-19
   id: 23E
   location: MGH 242
-  time: 08:00:00AM-12:50:00PM
+  time: 08:00:00AM-12:00:00PM
   title: 'Instrumentation Frontier: IF10'
 - day: 7-18
   id: 23H
@@ -416,11 +421,6 @@
   location: MGH 284
   time: 08:00:00AM-12:00:00PM
   title: 'Instrumentation Frontier: IF2'
-- day: 7-21
-  id: ''
-  location: PAC 231
-  time: 12:30:00PM-13:45:00PM
-  title: 'Computational Frontier: HLS4ML training'
 - day: 7-23
   id: 21E
   location: JHN 111
@@ -510,17 +510,17 @@
   location: MGH 231
   time: 08:00:00AM-12:00:00PM
   title: 'Community Engagement Frontier: Frontier Discussion'
+- day: 7-22
+  id: 21Z
+  location: ' '
+  time: 10:00:00AM-12:00:00PM
+  title: 'Cross Frontier Meetings: TF-CompF QIS'
 - day: 7-20
   id: 22F
   location: JHN 111
   time: 08:00:00AM-10:00:00AM
   title: 'Cross Frontier Meetings: Quantum Science & Technology (QST) Instrumentation
     (IF) & Underground Facilities (UF)'
-- day: 7-23
-  id: 21Z
-  location: JHN 111
-  time: 08:00:00AM-10:00:00AM
-  title: 'Cross Frontier Meetings: TF-CompF QIS'
 - day: 7-19
   id: 19A
   location: MGH 241
@@ -769,7 +769,7 @@
   id: 23X
   location: Kane Hall 130
   time: 17:30:00PM-19:10:00PM
-  title: 'Afternoon Plenary: HEP/Quantum Scence and Techinology (QST)  Intersections'
+  title: 'Afternoon Plenary: HEP/Quantum Science and Technology (QST)  Intersections'
 - day: 7-23
   id: 30O
   location: Kane Hall 110
@@ -811,7 +811,7 @@
   time: 14:00:00PM-15:23:00PM
   title: 'Afternoon Plenary: Panel:  Careers and Training the Next Generations'
 - day: 7-18
-  id: 30C
+  id: 30B
   location: Kane Hall 130
   time: 15:35:00PM-17:00:00PM
   title: 'Afternoon Plenary: Lattice QCD'
@@ -824,7 +824,7 @@
 - day: 7-17
   id: 17E
   location: Kane Hall 130
-  time: 16:30:00PM-18:45:00PM
+  time: 16:30:00PM-19:00:00PM
   title: 'Afternoon Plenary: Planning US HEP - past present future'
 - day: 7-16
   id: ''
@@ -861,6 +861,11 @@
   location: HUB 211 South Ballroom
   time: 19:00:00PM-21:00:00PM
   title: 'Poster Session: Poster Session'
+- day: 7-25
+  id: ''
+  location: ' '
+  time: 12:00:00PM-12:30:00PM
+  title: 'Social: Conference Picture'
 - day: 7-25
   id: 50A
   location: 'Mariner''s Baseball Stadium '
