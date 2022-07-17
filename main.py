@@ -14,7 +14,7 @@ def myConvertTime(z):
     dt2 = tz.localize(dt)
     dt3 = dt2.astimezone(pytz.timezone('America/Los_Angeles'))
 
-    res = datetime.strftime(dt3, "%H:%M:%S%p")
+    res = datetime.strftime(dt3, "%I:%M%p")
     #print(res)
     return res
 
