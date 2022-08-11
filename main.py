@@ -4,8 +4,7 @@ import yaml
 from datetime import datetime
 import pytz
 
-# this is an inelegant solution and assumes that every item is
-# already in chicago time.
+
 def myConvertTime(z):
     # convert from chicago to PDTs
     date_string = z['date'] + ' ' + z['time']
@@ -38,6 +37,7 @@ setOfIds.remove(None)
 len(setOfIds)
 
 emptyIDs = 0
+totalTalks = 0
 output = []
 for id in setOfIds:
     url = 'https://indico.fnal.gov/export/event/22303/session/' + str(id) + '.json'
@@ -50,8 +50,10 @@ for id in setOfIds:
             #print("Error. The address value for search " + str(id) + " is an empty string!")
             #emptyIDs += 1
 
-        
-        #print(x['startDate'])
+        for y in x['contributions']:
+            print(y['title'])
+            totalTalks += 1
+
         output.append({
             "id": x['address'],
             "day": x['startDate']['date'].replace('2022-0', ''),
@@ -60,7 +62,7 @@ for id in setOfIds:
             "time": myConvertTime(x['startDate']) + '-' + myConvertTime(x['endDate'])
         })
 
-#print(str(emptyIDs), 'empty IDs')
+print(totalTalks, " total contributions")
 result = open("output.yaml", "w")
 result.write(yaml.dump(output))
 result.close()
